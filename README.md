@@ -1,2 +1,3 @@
-# Step-Inside
-design bureau
+# Step Inside
+Design bureau by Dmitry Grigoryev. 
+tg: 89101294371
